@@ -1,0 +1,22 @@
+[
+    {
+        "id": " ",
+        "name": "Лучшее" 
+    },
+    { 
+        "id": "photo", 
+        "name": "Фотография" 
+    },
+    { 
+        "id": "illustrations", 
+        "name": "Иллюстрация" 
+    },
+    { 
+        "id": "architecture", 
+        "name": "Архетиктура" 
+    },
+    { 
+        "id": "movement", 
+        "name": "Движение" 
+    }
+]
