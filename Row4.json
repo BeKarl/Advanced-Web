@@ -1,0 +1,22 @@
+[
+    {
+        "id": "stock",
+        "name": "Stock" 
+    },
+    { 
+        "id": "dimension", 
+        "name": "Dimension" 
+    },
+    { 
+        "id": "capture", 
+        "name": "Capture" 
+    },
+    { 
+        "id": "fresco", 
+        "name": "Fresco" 
+    },
+    { 
+        "id": "substance", 
+        "name": "Substance" 
+    }
+]
