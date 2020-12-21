@@ -1,0 +1,22 @@
+[
+    {
+        "id": "gamedesign",
+        "name": "Игровой дизайн" 
+    },
+    { 
+        "id": "sound", 
+        "name": "Звук" 
+    },
+    { 
+        "id": "graphicdesign", 
+        "name": "Графический дизайн" 
+    },
+    { 
+        "id": "photoshop", 
+        "name": "Photoshop" 
+    },
+    { 
+        "id": "illustrator", 
+        "name": "Illustrator" 
+    }
+]
