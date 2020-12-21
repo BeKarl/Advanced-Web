@@ -1,29 +1,7 @@
-  "Row1": [
+[
     { "id": "", "name": "Лучшее" },
     { "id": "photo", "name": "Фотография" },
     { "id": "illustrations", "name": "Иллюстрация" },
     { "id": "architecture", "name": "Архетиктура" },
     { "id": "movement", "name": "Движение" }
-  ],
-  "Row2": [
-    { "id": "", "name": "" },
-    { "id": "", "name": "" },
-    { "id": "", "name": "" },
-    { "id": "", "name": "" },
-    { "id": "", "name": "" }
-  ],
-  "Row3": [
-    { "id": "", "name": "" },
-    { "id": "", "name": "" },
-    { "id": "", "name": "" },
-    { "id": "", "name": "" },
-    { "id": "", "name": "" }
-  ],
-  "Row4": [
-    { "id": "", "name": "" },
-    { "id": "", "name": "" },
-    { "id": "", "name": "" },
-    { "id": "", "name": "" },
-    { "id": "", "name": "" }
-  ],
-
+  ]
