@@ -18,27 +18,25 @@
     { 
         "id": "movement", 
         "name": "Движение" 
-    }
-]
-[
+    },
     {
-        "id": " ",
-        "name": "Лучшее" 
+        "id": "1",
+        "name": "Лучшее1" 
     },
     { 
-        "id": "photo", 
-        "name": "Фотография" 
+        "id": "photo2", 
+        "name": "Фотография2" 
     },
     { 
-        "id": "illustrations", 
-        "name": "Иллюстрация" 
+        "id": "illustrations3", 
+        "name": "Иллюстрация44" 
     },
     { 
-        "id": "architecture", 
-        "name": "Архетиктура" 
+        "id": "architecture4", 
+        "name": "Архетиктура4" 
     },
     { 
-        "id": "movement", 
-        "name": "Движение" 
+        "id": "movement5", 
+        "name": "Движение5" 
     }
 ]
